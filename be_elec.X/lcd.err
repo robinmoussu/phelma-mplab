@@ -1,0 +1,8 @@
+Error[1105] D:\beElec\be_elec.X\lcd.c 40 : symbol 'LCD_DATA' has not been defined
+Error[1101] D:\beElec\be_elec.X\lcd.c 40 : lvalue required
+Error[1105] D:\beElec\be_elec.X\lcd.c 44 : symbol 'LCD_DATA' has not been defined
+Error[1101] D:\beElec\be_elec.X\lcd.c 44 : lvalue required
+Error[1105] D:\beElec\be_elec.X\lcd.c 101 : symbol 'LCD_DATA' has not been defined
+Error[1101] D:\beElec\be_elec.X\lcd.c 101 : lvalue required
+Error[1105] D:\beElec\be_elec.X\lcd.c 111 : symbol 'LCD_DATA' has not been defined
+Error[1101] D:\beElec\be_elec.X\lcd.c 111 : lvalue required

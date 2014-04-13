@@ -1,0 +1,4 @@
+Warning[2058] D:\beElec\test2.X\test_afficheur.c 12 : call of function without prototype
+Warning[2066] D:\beElec\test2.X\test_afficheur.c 21 : type qualifier mismatch in assignment
+Warning[2066] D:\beElec\test2.X\test_afficheur.c 25 : type qualifier mismatch in assignment
+Warning[2066] D:\beElec\test2.X\test_afficheur.c 28 : type qualifier mismatch in assignment
